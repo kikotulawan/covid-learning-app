@@ -1,0 +1,28 @@
+
+  [
+    {
+      "id": 1,
+      "category_name": "London",
+      "category_code": "s"
+    },
+    {
+      "id": 2,
+      "category_name": "New York",
+      "category_code": "hr"
+    },
+    {
+      "id": 3,
+      "category_name": "Los Angeles",
+      "category_code": "c"
+    },
+    {
+      "id": 4,
+      "category_name": "Sydney",
+      "category_code": "lc"
+    },
+    {
+      "id": 5,
+      "category_name": "Berlin",
+      "category_code": "hc"
+    }
+  ]

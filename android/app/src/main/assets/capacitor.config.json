@@ -1,0 +1,6 @@
+{
+	"appId": "com.covidlearningapp.app",
+	"appName": "covid-learning-app",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
